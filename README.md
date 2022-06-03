@@ -1,2 +1,2 @@
-# hello, my name is hslee
-# i'm semi developer
+# Hello, my name is H.S.LEE.
+# I'm semi developer.
